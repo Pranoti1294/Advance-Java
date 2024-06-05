@@ -278,3 +278,10 @@ Java Model Exception: Error in Java Model (code 1006): bin/src/main/java/com/myc
 	at org.eclipse.equinox.launcher.Main.main(Main.java:1432)
 !SUBENTRY 1 org.eclipse.jdt.core 4 1006 2024-06-05 09:08:13.449
 !MESSAGE bin/src/main/java/com/mycompany/jdbc_app [in JDBC_app] is not on its project's build path
+
+!ENTRY org.eclipse.core.resources 2 2 2024-06-05 10:05:27.612
+!MESSAGE Save operation warnings.
+!SUBENTRY 1 org.eclipse.core.resources 2 234 2024-06-05 10:05:27.613
+!MESSAGE The project description file (.project) for 'Day1' was missing.  This file contains important information about the project.  A new project description file has been created, but some information about the project may have been lost.
+!SUBENTRY 1 org.eclipse.core.resources 2 234 2024-06-05 10:05:27.613
+!MESSAGE The project description file (.project) for 'Day2' was missing.  This file contains important information about the project.  A new project description file has been created, but some information about the project may have been lost.
